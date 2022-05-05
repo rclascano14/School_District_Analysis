@@ -1,4 +1,5 @@
 # School_District_Analysis
+`Using Python and the Pandas library to analyze school district data and showcase trends in the schools perfomance.`
 
 ## Resources
 - Data Source: students_complete.csv & school_complete.csv
